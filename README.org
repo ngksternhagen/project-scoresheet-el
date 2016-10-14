@@ -1,0 +1,5 @@
+* What is this?
+An Emacs package for scoring a baseball game using the Project Scoresheet system. If you like baseball and you like emacs, you might like this.
+* Further Reading
+introduction to the Project Scoresheet system by David Cortesi 
+https://web.archive.org/web/20030406142758/http://dcortesi.home.mindspring.com/scoring/scoring.pdf
